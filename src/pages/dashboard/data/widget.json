@@ -1,0 +1,6 @@
+[
+    {"id": 1, "status": "pending", "count": 2.48030, "percent": 2.15},
+    {"id": 2, "status": "paid", "count": 84.310, "percent": -1.10},
+    {"id": 3, "status": "rejected", "count": 12.155, "percent": 2.15}
+  ]
+  
